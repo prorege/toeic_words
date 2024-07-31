@@ -1,0 +1,35 @@
+{
+    "day2": [
+        { "number": 1, "eng": "attire", "kor1": "복장, 옷차림새", "kor2": "규범, 관례", "correctAnswer": "복장, 옷차림새" },
+        { "number": 2, "eng": "code", "kor1": "암호", "kor2": "규범, 관례", "correctAnswer": "규범, 관례" },
+        { "number": 3, "eng": "concern", "kor1": "우려, 걱정", "kor2": "자제하다, 삼가다", "correctAnswer": "우려, 걱정" },
+        { "number": 4, "eng": "policy", "kor1": "규정", "kor2": "보험, 증권", "correctAnswer": "규정" },
+        { "number": 5, "eng": "comply", "kor1": "준수하다", "kor2": "지키다", "correctAnswer": "준수하다" },
+        { "number": 6, "eng": "regulation", "kor1": "규정", "kor2": "예외", "correctAnswer": "규정" },
+        { "number": 7, "eng": "exception", "kor1": "예외", "kor2": "철저하게", "correctAnswer": "예외" },
+        { "number": 8, "eng": "adhere", "kor1": "고수하다", "kor2": "자제하다", "correctAnswer": "고수하다" },
+        { "number": 9, "eng": "severely", "kor1": "엄격하게", "kor2": "즉시", "correctAnswer": "엄격하게" },
+        { "number": 10, "eng": "refrain", "kor1": "삼가다", "kor2": "점검", "correctAnswer": "삼가다" },
+        { "number": 11, "eng": "permission", "kor1": "허락", "kor2": "준비", "correctAnswer": "허락" },
+        { "number": 12, "eng": "access", "kor1": "통로", "kor2": "이용권한, 접근", "correctAnswer": "이용권한, 접근" },
+        { "number": 13, "eng": "thoroughly", "kor1": "완전히", "kor2": "자제하다", "correctAnswer": "완전히" },
+        { "number": 14, "eng": "revise", "kor1": "수정하다", "kor2": "정책", "correctAnswer": "수정하다" },
+        { "number": 15, "eng": "approach", "kor1": "접근법", "kor2": "절차", "correctAnswer": "접근법" },
+        { "number": 16, "eng": "approval", "kor1": "승인", "kor2": "부정적인", "correctAnswer": "승인" },
+        { "number": 17, "eng": "form", "kor1": "유형", "kor2": "종류", "correctAnswer": "종류" },
+        { "number": 18, "eng": "immediately", "kor1": "즉시", "kor2": "준비", "correctAnswer": "즉시" },
+        { "number": 19, "eng": "inspection", "kor1": "검사", "kor2": "허락", "correctAnswer": "검사" },
+        { "number": 20, "eng": "arrangement", "kor1": "주선", "kor2": "절차", "correctAnswer": "주선" },
+        { "number": 21, "eng": "procedure", "kor1": "절차", "kor2": "준비", "correctAnswer": "절차" },
+        { "number": 22, "eng": "negative", "kor1": "부정적인", "kor2": "보상금", "correctAnswer": "부정적인" },
+        { "number": 23, "eng": "mandate", "kor1": "명령하다", "kor2": "법령", "correctAnswer": "명령하다" },
+        { "number": 24, "eng": "effect", "kor1": "효과", "kor2": "자제하다", "correctAnswer": "효과" },
+        { "number": 25, "eng": "drastically", "kor1": "심하게", "kor2": "금지하다", "correctAnswer": "심하게" },
+        { "number": 26, "eng": "according to", "kor1": "따르다", "kor2": "~에 따라", "correctAnswer": "~에 따라" },
+        { "number": 27, "eng": "enable", "kor1": "가능하게 하다", "kor2": "규정", "correctAnswer": "가능하게 하다" },
+        { "number": 28, "eng": "standard", "kor1": "기준", "kor2": "규정", "correctAnswer": "기준" },
+        { "number": 29, "eng": "constant", "kor1": "지속적인", "kor2": "법률", "correctAnswer": "지속적인" },
+        { "number": 30, "eng": "act", "kor1": "법령", "kor2": "행위", "correctAnswer": "법령" }
+    ]
+}
+
